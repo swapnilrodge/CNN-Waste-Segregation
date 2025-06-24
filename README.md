@@ -24,14 +24,8 @@ The Dataset consists of images of some common waste materials.
 6. Cardboard
 7. Glass
 
-## **Data Understanding**
+**Data Description**
 
-The Dataset consists of images of some common waste materials.
-
-1. Food Waste
-2. Metal
-3. Paper
-4. Plastic
-5. Other
-6. Cardboard
-7. Glass
+* The dataset consists of multiple folders, each representing a specific class, such as `Cardboard`, `Food_Waste`, and `Metal`.
+* Within each folder, there are images of objects that belong to that category.
+* However, these items are not further subcategorised. <br> For instance, the `Food_Waste` folder may contain images of items like coffee grounds, teabags, and fruit peels, without explicitly stating that they are actually coffee grounds or teabags.
