@@ -24,3 +24,14 @@ The Dataset consists of images of some common waste materials.
 6. Cardboard
 7. Glass
 
+## **Data Understanding**
+
+The Dataset consists of images of some common waste materials.
+
+1. Food Waste
+2. Metal
+3. Paper
+4. Plastic
+5. Other
+6. Cardboard
+7. Glass
